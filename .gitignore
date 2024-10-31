@@ -27,3 +27,4 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+kicad/~esp-prog-stick.kicad_pcb.lck
