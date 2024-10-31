@@ -4,6 +4,12 @@
 
 This project implements a compact and portable tool for programming ESP8266 modules, using ESP-Prog in a USB stick form factor. The design features a detachable cable for ease of use and transport, allowing for quick and efficient programming of ESP8266 modules.
 
+## Documentation
+
+For more detailed documentation, you can view the following HTML files:
+
+- [Interactive Bill of Materials](bom/ibom.html)
+
 ## Features
 
 - **Compact USB Stick Format:** The tool is designed to be portable, fitting easily into a USB port.
