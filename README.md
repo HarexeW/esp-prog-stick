@@ -4,12 +4,6 @@
 
 This project implements a compact and portable tool for programming ESP8266 modules, using ESP-Prog in a USB stick form factor. The design features a detachable cable for ease of use and transport, allowing for quick and efficient programming of ESP8266 modules.
 
-## Documentation
-
-For more detailed documentation, you can view the following HTML files:
-
-- [Interactive Bill of Materials](bom/ibom.html)
-
 ## Features
 
 - **Compact USB Stick Format:** The tool is designed to be portable, fitting easily into a USB port.
@@ -27,7 +21,11 @@ For more detailed documentation, you can view the following HTML files:
 - **USB to UART Bridge CH340G**
 - **Auto Reset and Programming Circuit**
 
-## Pinout
+## Connector
+
+The connector is a **6-pin JST SHL connector**. More details can be found [here](https://www.jst.com/products/crimp-style-connectors-wire-to-board-type/shl-connector/).
+
+### Pinout
 
 1. **GND** - Ground
 2. **TX** - Transmit Data
@@ -36,9 +34,16 @@ For more detailed documentation, you can view the following HTML files:
 5. **EN** - Enable Pin
 6. **3.3V** - 3.3V Power Output
 
+
 ## Windows Driver Installation
 
 For Windows users, a driver is required to use the USB to UART Bridge (CH340G). The driver can be downloaded from [this link](https://www.wch.cn/download/ch341ser_exe.html).
+
+## Bill of Materials (BOM)
+
+- [Interactive Bill of Materials](bom/ibom.html)
+
+The BOM includes part numbers for components available at [LCSC](https://lcsc.com), where you can order them.
 
 ## License
 
