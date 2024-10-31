@@ -15,6 +15,25 @@ This project implements a compact and portable tool for programming ESP8266 modu
 - **Design Software**: Created using **KiCad 8.0.6**.
 - **Components**: The device consists of a USB stick PCB form factor for ESP-Prog functionalities and a detachable cable to connect directly to ESP8266 modules for programming and debugging.
 
+### Hardware Features
+
+- **Onboard 3.3V Regulator**
+- **USB to UART Bridge CH340G**
+- **Auto Reset and Programming Circuit**
+
+## Pinout
+
+1. **GND** - Ground
+2. **TX** - Transmit Data
+3. **RX** - Receive Data
+4. **GPIO0** - General Purpose I/O, used for programming
+5. **EN** - Enable Pin
+6. **3.3V** - 3.3V Power Output
+
+## Windows Driver Installation
+
+For Windows users, a driver is required to use the USB to UART Bridge (CH340G). The driver can be downloaded from [this link](https://www.wch.cn/download/ch341ser_exe.html).
+
 ## License
 
 This project is licensed under the GPL v3 License.

@@ -28,3 +28,4 @@ fp-info-cache
 *.xml
 *.csv
 kicad/~esp-prog-stick.kicad_pcb.lck
+kicad/~esp-prog-stick.kicad_sch.lck
