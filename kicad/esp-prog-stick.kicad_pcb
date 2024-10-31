@@ -7,6 +7,12 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
+	(title_block
+		(title "ESP-PROG Stick")
+		(date "2024-10-31")
+		(rev "1.0")
+		(company "github.com/harexew")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(1 "In1.Cu" signal)

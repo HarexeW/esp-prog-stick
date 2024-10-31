@@ -4,6 +4,8 @@
 
 This project implements a compact and portable tool for programming ESP8266 modules, using ESP-Prog in a USB stick form factor. The design features a detachable cable for ease of use and transport, allowing for quick and efficient programming of ESP8266 modules.
 
+View the Schematics and Layout online at [KiCanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2FHarexeW%2Fesp-prog-stick%2Ftree%2Fmain%2Fkicad).
+
 ## Features
 
 - **Compact USB Stick Format:** The tool is designed to be portable, fitting easily into a USB port.
