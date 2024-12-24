@@ -1,0 +1,312 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "c1087855-429f-4794-847a-e4139f44bc48")
+	(paper "A3")
+	(title_block
+		(title "ESP-PROG Stick")
+		(date "2024-10-31")
+		(rev "2")
+		(company "harexew.com // github.com/harexew")
+	)
+	(lib_symbols)
+	(polyline
+		(pts
+			(xy 123.19 106.68) (xy 123.19 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c0853cb-9bcc-4404-9fa4-4ed0c69d97df")
+	)
+	(polyline
+		(pts
+			(xy 25.4 116.84) (xy 176.53 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9aa8e4f7-90fe-4987-82e2-2f9c5696c0ad")
+	)
+	(polyline
+		(pts
+			(xy 25.4 143.51) (xy 176.53 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd8b5371-2673-400d-99fd-d10be88c7564")
+	)
+	(polyline
+		(pts
+			(xy 25.4 130.81) (xy 176.53 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1ec7754-af62-4485-a36c-a11cde166412")
+	)
+	(polyline
+		(pts
+			(xy 71.12 106.68) (xy 71.12 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3b34873-a7af-4b32-8375-1d457150a4aa")
+	)
+	(polyline
+		(pts
+			(xy 25.4 156.21) (xy 176.53 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3d593f1-11ef-4851-8c32-df6421d83816")
+	)
+	(polyline
+		(pts
+			(xy 25.4 168.91) (xy 176.53 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f061d701-1d24-4480-a8fd-e54ff7873f9f")
+	)
+	(rectangle
+		(start 25.4 106.68)
+		(end 176.53 180.34)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 02d96f01-aea5-4156-b79f-05f4bbd83a76)
+	)
+	(text "Back Mask"
+		(exclude_from_sim no)
+		(at 68.58 175.26 0)
+		(effects
+			(font
+				(size 5 5)
+				(italic yes)
+			)
+			(justify right)
+		)
+		(uuid "0d0dd08e-f63a-4d42-adcf-3327d4e285c0")
+	)
+	(text "10µm"
+		(exclude_from_sim no)
+		(at 120.65 124.46 0)
+		(effects
+			(font
+				(size 5 5)
+			)
+			(justify right)
+		)
+		(uuid "25412078-03d0-42ee-866d-6401c88246ef")
+	)
+	(text "Back Cu"
+		(exclude_from_sim no)
+		(at 68.58 162.56 0)
+		(effects
+			(font
+				(size 5 5)
+				(italic yes)
+			)
+			(justify right)
+		)
+		(uuid "261cff11-23c8-4e86-b813-6ef396f8a85e")
+	)
+	(text "Material"
+		(exclude_from_sim no)
+		(at 166.37 113.03 0)
+		(effects
+			(font
+				(size 5 5)
+				(thickness 1)
+				(bold yes)
+				(italic yes)
+			)
+			(justify right)
+		)
+		(uuid "26d6c799-51ae-4aa2-b4b5-f6a40ae8e08b")
+	)
+	(text "Dielectric"
+		(exclude_from_sim no)
+		(at 68.58 149.86 0)
+		(effects
+			(font
+				(size 5 5)
+				(italic yes)
+			)
+			(justify right)
+		)
+		(uuid "28d98a0e-563d-482a-8208-7a780582c121")
+	)
+	(text "35µm"
+		(exclude_from_sim no)
+		(at 120.65 162.56 0)
+		(effects
+			(font
+				(size 5 5)
+			)
+			(justify right)
+		)
+		(uuid "70a7bbb6-ea83-4fdb-b511-8c3a1f76cdfa")
+	)
+	(text "FR4"
+		(exclude_from_sim no)
+		(at 173.99 151.13 0)
+		(effects
+			(font
+				(size 5 5)
+			)
+			(justify right)
+		)
+		(uuid "72012a7d-f625-49cb-9a6c-01b3676260a6")
+	)
+	(text "PCB Structure"
+		(exclude_from_sim no)
+		(at 14.478 19.304 0)
+		(effects
+			(font
+				(size 10 10)
+				(thickness 2)
+				(bold yes)
+				(italic yes)
+			)
+			(justify left top)
+		)
+		(uuid "753bed3b-1335-4681-853c-103cc772fa7e")
+	)
+	(text "Layer"
+		(exclude_from_sim no)
+		(at 58.42 113.03 0)
+		(effects
+			(font
+				(size 5 5)
+				(thickness 1)
+				(bold yes)
+				(italic yes)
+			)
+			(justify right)
+		)
+		(uuid "76f2c24d-de4c-48e6-accf-6e42493aee71")
+	)
+	(text "Front Mask"
+		(exclude_from_sim no)
+		(at 68.58 124.46 0)
+		(effects
+			(font
+				(size 5 5)
+				(italic yes)
+			)
+			(justify right)
+		)
+		(uuid "98f2a6cc-bc46-49eb-8e09-f88d6f3dc49e")
+	)
+	(text "- PCB Thickness: 1.6mm\n- Layers: 2"
+		(exclude_from_sim no)
+		(at 24.13 52.07 0)
+		(effects
+			(font
+				(size 6 6)
+				(thickness 0.75)
+			)
+			(justify left top)
+		)
+		(uuid "a0b92ba5-a54d-4c30-a9e3-1b7a8ea966a3")
+	)
+	(text "Copper"
+		(exclude_from_sim no)
+		(at 173.99 137.16 0)
+		(effects
+			(font
+				(size 5 5)
+			)
+			(justify right)
+		)
+		(uuid "aa1019be-d307-4db4-8970-55e63860815f")
+	)
+	(text "35µm"
+		(exclude_from_sim no)
+		(at 120.65 137.16 0)
+		(effects
+			(font
+				(size 5 5)
+			)
+			(justify right)
+		)
+		(uuid "d56497c2-d53e-4df6-a1f7-3d5adb4dfa32")
+	)
+	(text "1,51mm"
+		(exclude_from_sim no)
+		(at 120.65 151.13 0)
+		(effects
+			(font
+				(size 5 5)
+			)
+			(justify right)
+		)
+		(uuid "e468b046-0a0d-4e57-aaf6-6c1b90377be5")
+	)
+	(text "Front"
+		(exclude_from_sim no)
+		(at 68.58 137.16 0)
+		(effects
+			(font
+				(size 5 5)
+				(italic yes)
+			)
+			(justify right)
+		)
+		(uuid "e770c7e8-87a8-4cc8-90ca-7a7b1f1a218e")
+	)
+	(text "Thickness"
+		(exclude_from_sim no)
+		(at 114.3 113.03 0)
+		(effects
+			(font
+				(size 5 5)
+				(thickness 1)
+				(bold yes)
+				(italic yes)
+			)
+			(justify right)
+		)
+		(uuid "e98d1cfe-8b0e-4574-ac97-143108d7a3c6")
+	)
+	(text "10µm"
+		(exclude_from_sim no)
+		(at 120.65 176.53 0)
+		(effects
+			(font
+				(size 5 5)
+			)
+			(justify right)
+		)
+		(uuid "eaa28a08-9639-4fca-9cad-36b73c1dc8e4")
+	)
+	(text "Copper"
+		(exclude_from_sim no)
+		(at 173.99 162.56 0)
+		(effects
+			(font
+				(size 5 5)
+			)
+			(justify right)
+		)
+		(uuid "eddd57a3-a135-4885-8324-abd33e29e86f")
+	)
+)

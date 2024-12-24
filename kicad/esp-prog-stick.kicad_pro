@@ -583,7 +583,7 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "/home/harexew/kicad_templates/harexew_a3.kicad_wks",
     "plot_directory": "",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
@@ -598,6 +598,34 @@
     [
       "6d997e71-2597-4199-87c6-8b21e5258e06",
       "Stammblatt"
+    ],
+    [
+      "5a13f6e1-ed05-44ce-8bce-f19b22ff99ae",
+      "Table of Contents"
+    ],
+    [
+      "3a2156a5-4eb1-4c47-a7b8-d390a0689e64",
+      "Schematics"
+    ],
+    [
+      "ce00a435-4f51-4364-905b-c288fca1d3df",
+      "Pinout"
+    ],
+    [
+      "ad4e6d17-888f-459b-a7e3-65d1c74593f3",
+      "Board Outline"
+    ],
+    [
+      "715aa0a9-a3c6-4915-977c-e51d32b45363",
+      "Layout"
+    ],
+    [
+      "6fce0b61-0fab-480e-bd5c-b6a7d3b3f2c5",
+      "PCB Structure"
+    ],
+    [
+      "268fb921-e570-4557-acbc-9e36596c8141",
+      "Renders"
     ]
   ],
   "text_variables": {}

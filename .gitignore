@@ -30,3 +30,4 @@ fp-info-cache
 kicad/~esp-prog-stick.kicad_pcb.lck
 kicad/~esp-prog-stick.kicad_sch.lck
 kicad/~_autosave-esp-prog-stick.kicad_pcb.lck
+*.svg

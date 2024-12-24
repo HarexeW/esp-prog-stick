@@ -1,0 +1,65 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "5e682dc8-07a9-4f8d-95e8-4c1c1a86b66d")
+	(paper "A3")
+	(title_block
+		(title "ESP-PROG Stick")
+		(date "2024-10-31")
+		(rev "2")
+		(company "harexew.com // github.com/harexew")
+	)
+	(lib_symbols)
+	(text "3\n4\n5\n6\n7\n8"
+		(exclude_from_sim no)
+		(at 117.856 56.896 0)
+		(effects
+			(font
+				(size 6 6)
+				(thickness 0.75)
+			)
+			(justify left top)
+		)
+		(uuid "032b2ec0-55d9-46b8-aab6-4595276760f1")
+	)
+	(text "1. Schematics\n2. Pinout\n3. Board Outline\n4. Layout\n5. PCB Structure\n6. Renders"
+		(exclude_from_sim no)
+		(at 19.05 57.404 0)
+		(effects
+			(font
+				(size 6 6)
+				(thickness 0.75)
+			)
+			(justify left top)
+		)
+		(uuid "2692aad7-a01b-4129-a5a9-c46c2e8d2252")
+	)
+	(text "Table of Contents"
+		(exclude_from_sim no)
+		(at 15.494 18.288 0)
+		(effects
+			(font
+				(size 10 10)
+				(thickness 2)
+				(bold yes)
+				(italic yes)
+			)
+			(justify left top)
+		)
+		(uuid "5ee03b5f-11e7-47bd-b417-f83109ad0aa4")
+	)
+	(text "Section			 Page"
+		(exclude_from_sim no)
+		(at 18.796 45.974 0)
+		(effects
+			(font
+				(size 6 6)
+				(thickness 0.75)
+				(italic yes)
+			)
+			(justify left top)
+		)
+		(uuid "8dbf7fdc-4f2f-4bc6-9158-832e922c7cdc")
+	)
+)
